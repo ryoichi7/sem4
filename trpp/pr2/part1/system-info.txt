@@ -1,0 +1,8 @@
+Date and Time: Tue Mar 12 11:13:55 MSK 2024
+Users:
+ryoichi          console      Feb 18 11:16 
+ryoichi          ttys000      Mar 11 23:56 
+Uptime: 11:13  up 22 days, 23:57, 2 users, load averages: 2.52 2.78 2.99
+USER     TTY      FROM              LOGIN@  IDLE WHAT
+ryoichi  console  -                18Feb24 22days -
+ryoichi  s000     -                Mon23       - Uptime
