@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net" modified="2024-04-03T06:46:55.594Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4K_eDqdkrSXtP_3cXhj1" version="24.0.7" type="device">
+  <diagram name="Страница — 1" id="CrJ080NFnx5UMRq6oB-1">
+    <mxGraphModel dx="866" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cwPM9cC0hO0gW2126zwc-4" value="Студент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwPM9cC0hO0gW2126zwc-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.192;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cwPM9cC0hO0gW2126zwc-4" target="orHfp3B-soSW-SqCrWf3-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="240.98000000000002" y="182" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cwPM9cC0hO0gW2126zwc-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.825;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="orHfp3B-soSW-SqCrWf3-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="313.01" y="176" as="sourcePoint" />
+            <mxPoint x="454" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cwPM9cC0hO0gW2126zwc-10" value="" style="endArrow=openAsync;html=1;rounded=0;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="240" as="sourcePoint" />
+            <mxPoint x="200" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cwPM9cC0hO0gW2126zwc-11" value="1. Запрос на запись&lt;div&gt;&amp;nbsp;на семинар&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="60" y="180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cwPM9cC0hO0gW2126zwc-12" value="2. Запрос на историю&lt;div&gt;посещений&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="360" y="170" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cwPM9cC0hO0gW2126zwc-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="180" as="sourcePoint" />
+            <mxPoint x="430" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cwPM9cC0hO0gW2126zwc-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.671;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="250" as="sourcePoint" />
+            <mxPoint x="340" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cwPM9cC0hO0gW2126zwc-15" value="3. История&lt;div&gt;&amp;nbsp;посещений&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cwPM9cC0hO0gW2126zwc-18" value="4. Определение&lt;div&gt;&amp;nbsp;подготовленности&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="320" y="80" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cwPM9cC0hO0gW2126zwc-19" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="210" as="sourcePoint" />
+            <mxPoint x="160" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cwPM9cC0hO0gW2126zwc-20" value="5. Статус записи&lt;div&gt;&amp;nbsp;на семинар&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="140" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="orHfp3B-soSW-SqCrWf3-2" value="Слушатель" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="orHfp3B-soSW-SqCrWf3-3" value="Сервер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="255" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="orHfp3B-soSW-SqCrWf3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="orHfp3B-soSW-SqCrWf3-2" target="orHfp3B-soSW-SqCrWf3-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="90" />
+              <mxPoint x="250" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
